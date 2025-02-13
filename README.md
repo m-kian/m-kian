@@ -1,16 +1,28 @@
-## Hi there 👋
+👋 Welcome to My GitHub!  
 
-<!--
-**m-kian/m-kian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://i.pinimg.com/originals/15/31/d9/1531d96faf25999edbcf86d299c84c53.gif" alt="Coding GIF">
+</p>
 
-Here are some ideas to get you started:
+Hi, I'm **Kheanne Miguel**, a passionate **BSIT Student** in **University of Science and Technology of Southern Philippines** who enjoys building, learning, and contributing to exciting projects. I love solving problems with code and exploring new technologies.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🚀 What I Do  
+🔹 **Learn**: Currently diving into SQL, CSS, HTML
+
+---
+
+**💡 Always eager to expand my knowledge!**
+
+
+---
+
+💬 Let's Connect  
+📧 Reach me at kheannemiguel15@gmail.com
+🔗 LinkedIn: [Kheanne Miguel](https://www.linkedin.com/in/kheanne-miguel-2434952b0/)
+
+
+---
+
+Thanks for stopping by!
